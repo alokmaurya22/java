@@ -13,4 +13,5 @@ public class Animal {
     private void secret() {
         System.out.println("This is secret method.");
     }
+
 }
