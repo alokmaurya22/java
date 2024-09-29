@@ -1,8 +1,8 @@
 # Default ignored files
 /shelf/
 /workspace.xml
-
-# Ignore compiled class files
 *.class
-./*.class
+/*.class
+/*/*.class
+/*/*/*.class
 
